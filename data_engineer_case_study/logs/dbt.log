@@ -1,0 +1,32 @@
+[0m17:04:49.861578 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b306b160>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b20ef5e0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b20ef580>]}
+
+
+============================== 17:04:49.864769 | 7b98d8af-e5c5-4b90-bf99-f6d73034b03c ==============================
+[0m17:04:49.864769 [info ] [MainThread]: Running with dbt=1.9.4
+[0m17:04:49.865368 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/home/ilies/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init octopus_pricing', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m17:04:49.882513 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse logging event dictionary. Failed to parse dir field: expected string or bytes-like object.. Dictionary: {'dir': PosixPath('/home/ilies/.dbt')}
+[0m17:04:49.883222 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m17:04:49.887123 [debug] [MainThread]: Starter project path: /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/case_venv/lib/python3.10/site-packages/dbt/include/starter_project
+[0m17:04:49.893861 [info ] [MainThread]: 
+Your new dbt project "octopus_pricing" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:04:49.894326 [info ] [MainThread]: Setting up your profile.
+[0m17:07:12.756945 [info ] [MainThread]: Profile octopus_pricing written to /home/ilies/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m17:07:12.758838 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 142.94296, "process_in_blocks": "80368", "process_kernel_time": 0.113673, "process_mem_max_rss": "97116", "process_out_blocks": "80", "process_user_time": 1.025466}
+[0m17:07:12.759309 [debug] [MainThread]: Command `dbt init` succeeded at 17:07:12.759216 after 142.94 seconds
+[0m17:07:12.759696 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b306b160>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b2009000>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f78b20ef4c0>]}
+[0m17:07:12.760120 [debug] [MainThread]: Flushing usage events
+[0m17:07:13.250234 [debug] [MainThread]: An error was encountered while trying to flush usage events

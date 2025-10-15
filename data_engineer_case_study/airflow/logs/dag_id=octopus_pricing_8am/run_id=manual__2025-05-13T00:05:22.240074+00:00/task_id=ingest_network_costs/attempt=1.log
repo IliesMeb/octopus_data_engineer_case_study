@@ -1,0 +1,10 @@
+{"timestamp":"2025-05-13T00:05:23.113166","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-13T00:05:23.114007","level":"info","event":"Filling up the DagBag from /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags/octopus_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:05:23.319588","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:23.328018","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:23.335902","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:23.343484","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:05:23.354403","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:23.384272","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:23.496050","level":"warning","event":"pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.","category":"UserWarning","filename":"***/airflow/dags/***_pricing_pipeline.py","lineno":31,"logger":"py.warnings"}
+{"timestamp":"2025-05-13T00:05:23.507276","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

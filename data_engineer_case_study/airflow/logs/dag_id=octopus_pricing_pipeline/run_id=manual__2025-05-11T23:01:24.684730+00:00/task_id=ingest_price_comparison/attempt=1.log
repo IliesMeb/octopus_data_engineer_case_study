@@ -1,0 +1,6 @@
+{"timestamp":"2025-05-11T23:01:26.281369","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-11T23:01:26.282364","level":"info","event":"Filling up the DagBag from /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags/octopus_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T23:01:26.703658","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T23:01:26.713763","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T23:01:26.723501","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T23:01:27.261514","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

@@ -1,0 +1,577 @@
+{"timestamp":"2025-05-13T00:00:07.392931","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:00:07.635487","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:07.864331","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:07.891346","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:07.912233","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:00:38.251980","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:00:38.486778","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:38.668723","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:38.682499","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:00:38.696812","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:01:09.064816","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:01:09.470952","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:09.782633","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:09.795778","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:09.808099","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:01:40.163299","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:01:40.385085","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:40.563516","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:40.577250","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:01:40.588812","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:02:10.952587","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:02:11.198027","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:11.372495","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:11.387280","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:11.399508","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:02:41.714516","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:02:42.297255","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:42.492278","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:42.508955","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:02:42.524408","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:03:12.955231","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:03:13.220803","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:13.411549","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:13.425524","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:13.438767","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:03:43.768724","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:03:44.014472","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:44.190888","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:44.204263","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:44.216597","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:03:52.374114","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:03:52.826661","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:53.116201","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:53.130192","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:53.144320","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:03:58.260265","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:03:58.501086","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:58.688818","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:58.707057","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:03:58.721859","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:04:29.074552","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:04:29.389351","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:04:29.589328","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:04:29.602893","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:04:29.616926","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:05:00.056697","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:05:00.678444","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:00.881356","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:00.898442","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:00.911793","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:05:14.320908","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:05:14.561769","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:14.870984","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:14.885622","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:14.898818","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:05:17.996305","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:05:18.229897","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:18.407854","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:18.423346","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:18.437533","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:05:46.756484","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:05:47.220821","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:47.420410","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:47.437576","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:05:47.451294","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:06:17.948929","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:06:18.211045","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:18.458352","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:18.476028","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:18.489348","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:06:48.840574","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:06:49.099447","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:49.296948","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:49.317152","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:06:49.330528","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:07:19.673836","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:07:20.062126","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:20.379846","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:20.392966","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:20.406081","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:07:50.739034","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:07:50.994121","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:51.201344","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:51.219800","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:07:51.238420","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:08:21.576544","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:08:21.811614","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:22.022842","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:22.040303","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:22.054100","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:08:52.388845","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:08:52.946795","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:53.154453","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:53.169582","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:08:53.183511","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:09:23.694903","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:09:24.022593","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:24.251762","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:24.268302","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:24.282422","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:09:54.609909","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:09:54.854615","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:55.041038","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:55.056256","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:09:55.071006","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:10:25.387147","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:10:25.749406","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:26.042102","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:26.054995","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:26.066630","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:10:56.394150","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:10:56.648988","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:56.866883","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:56.884110","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:10:56.899962","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:11:27.250995","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:11:27.476521","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:27.650889","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:27.667636","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:27.680491","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:11:58.004139","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:11:58.525564","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:58.698076","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:58.711311","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:11:58.724384","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:12:29.111353","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:12:29.347783","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:12:29.529093","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:12:29.543220","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:12:29.557669","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:12:59.908957","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:13:00.141364","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:00.333090","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:00.351229","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:00.366709","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:13:30.706953","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:13:31.107680","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:31.282024","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:31.296795","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:13:31.309200","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:14:01.788694","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:14:02.049521","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:02.226108","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:02.239944","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:02.253160","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:14:32.584040","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:14:32.850256","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:33.030469","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:33.046942","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:14:33.062397","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:15:03.396435","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:15:03.773273","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:04.057725","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:04.070742","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:04.084837","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:15:34.440813","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:15:34.688502","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:34.873379","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:34.887993","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:34.901698","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:15:37.012876","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:15:37.302875","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:37.493414","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:37.506948","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:37.520221","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:15:38.656768","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:15:39.133159","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:39.441755","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:39.458575","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:15:39.473054","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:16:09.789839","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:16:09.999978","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:10.193039","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:10.207007","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:10.219822","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:16:27.452328","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:16:27.706384","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:27.941499","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:27.975515","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:28.011145","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:16:30.135145","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:16:30.566146","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:30.733617","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:30.746139","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:16:30.757836","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:01.101245","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:01.570491","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:01.938481","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:01.951475","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:01.962656","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:22.214133","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:22.459234","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:22.669716","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:22.686278","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:22.702799","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:26.824783","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:27.197187","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:27.365409","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:27.379269","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:27.393659","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:29.482980","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:29.899671","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:30.267028","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:30.285833","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:30.303596","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:38.444986","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:38.670264","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:38.848409","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:38.861885","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:38.874578","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:41.963745","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:42.335949","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:42.506947","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:42.531707","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:42.545368","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:49.686773","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:50.077915","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:50.438534","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:50.452717","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:50.465056","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:17:54.579234","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:17:54.829947","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:55.016093","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:55.033718","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:17:55.045966","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:18:25.401338","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:18:25.790057","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:25.969833","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:25.983746","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:25.996092","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:18:56.329679","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:18:56.686672","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:56.990575","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:57.004689","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:18:57.016172","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:19:27.370929","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:19:27.615312","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:27.799920","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:27.816012","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:27.830144","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:19:58.135553","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:19:58.565461","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:58.729407","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:58.742708","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:19:58.755156","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:20:29.069934","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:20:29.439876","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:29.721987","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:29.735534","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:29.747978","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:20:39.898923","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:20:40.109017","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:40.309289","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:40.323960","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:20:40.336951","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:21:10.698957","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:21:11.072863","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:11.251105","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:11.264776","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:11.277319","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:21:30.496810","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:21:30.874517","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:31.182175","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:31.197505","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:21:31.210675","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:22:00.514603","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:22:00.746663","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:00.934848","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:00.950887","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:00.965207","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:22:08.095697","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:22:08.497570","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:08.684081","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:08.697546","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:08.710466","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:22:36.019135","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:22:36.393884","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:36.697907","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:36.710702","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:22:36.722728","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:23:01.996202","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:23:02.223521","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:02.421910","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:02.435156","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:02.449657","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:23:09.589867","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:23:10.002204","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:10.176664","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:10.190681","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:10.204500","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:23:29.452267","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:23:29.874830","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:30.192860","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:30.209965","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:30.224192","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:23:32.319791","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:23:32.578096","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:32.824422","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:32.850715","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:23:32.871749","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:24:03.221531","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:24:03.661105","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:03.857067","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:03.871513","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:03.884503","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:24:34.323077","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:24:34.540422","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:34.739797","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:34.754611","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:24:34.767249","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:25:05.117944","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:25:05.344592","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:05.563693","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:05.580763","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:05.596893","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:25:35.938967","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:25:36.322541","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:36.610872","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:36.626165","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:25:36.640177","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:26:07.009864","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:26:07.343463","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:07.582103","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:07.595151","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:07.607964","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:26:37.976128","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:26:38.191333","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:38.366024","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:38.380680","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:26:38.394279","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:27:08.722810","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:27:09.105410","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:09.270536","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:09.283214","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:09.298020","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:27:39.801911","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:27:40.032195","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:40.205920","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:40.219083","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:27:40.231392","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:28:10.570460","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:28:10.796158","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:10.983090","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:10.995841","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:11.009312","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:28:41.371480","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:28:41.747244","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:42.035158","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:42.047962","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:28:42.060700","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:29:12.404270","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:29:12.625928","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:12.830291","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:12.843476","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:12.856615","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:29:43.230458","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:29:43.459598","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:43.637310","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:43.651998","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:29:43.666163","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:30:14.018255","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:30:14.444418","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:14.715981","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:14.741897","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:14.947691","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:30:45.298600","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:30:45.519655","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:45.692495","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:45.706070","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:30:45.719656","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:31:16.026959","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:31:16.243033","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:16.428952","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:16.443078","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:16.456585","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:31:46.797076","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:31:47.228930","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:47.426915","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:47.440858","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:31:47.454007","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:32:17.949492","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:32:18.163363","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:18.341151","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:18.354875","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:18.367583","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:32:43.661633","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:32:43.946030","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:44.156790","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:44.178910","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:32:44.199459","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:33:14.510575","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:33:14.943984","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:15.258287","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:15.272594","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:15.285476","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:33:41.592931","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:33:41.855420","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:42.036811","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:42.052008","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:42.065672","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:33:46.171316","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:33:46.403478","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:46.592150","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:46.604867","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:33:46.618290","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:33:59.808449","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:34:00.222066","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:00.418022","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:00.431508","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:00.453617","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:34:30.805748","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:34:31.265631","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:31.627223","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:31.642252","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:31.655753","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:34:40.836493","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:34:41.111415","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:41.327577","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:41.345069","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:41.362004","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:34:48.508478","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:34:48.930216","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:49.103503","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:49.118220","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:34:49.130942","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:35:19.443711","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:35:19.819688","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:20.106565","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:20.119849","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:20.131466","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:35:50.506839","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:35:50.813033","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:51.031256","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:51.046230","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:35:51.058679","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:36:21.395164","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:36:21.780884","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:21.967085","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:21.979985","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:21.992642","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:36:52.433682","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:36:52.664560","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:52.861044","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:52.877840","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:36:52.892729","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:37:23.247287","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:37:23.505511","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:23.720775","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:23.735511","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:23.748942","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:37:54.075470","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:37:54.481864","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:54.767758","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:54.781189","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:37:54.793709","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:38:25.141379","level":"info","event":"Filling up the DagBag from /home/ilies/***_data_engineer_case_study/data_engineer_case_study/airflow/dags/***_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-13T00:38:25.376667","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:38:25.594860","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:38:25.608240","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-13T00:38:25.621619","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-13T00:38:55.941957Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:39:26.212339Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:39:56.417310Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:40:26.680666Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:40:56.968332Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:41:27.194687Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:41:57.440883Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:42:27.727419Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:42:58.013402Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:43:28.301686Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:43:58.552304Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:44:28.830072Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:44:59.096422Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:45:29.380012Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:45:59.666582Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:46:29.891713Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:47:00.180615Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:47:30.468748Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:48:00.724494Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:48:30.971265Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:49:01.246734Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:49:31.558750Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:50:01.826584Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:50:32.081677Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:51:02.355638Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:51:32.639705Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:52:02.925654Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:52:33.211067Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:53:03.504859Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:53:33.764617Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:54:03.985300Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:54:34.217698Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:55:04.466773Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:55:34.713437Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:56:05.019033Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:56:35.322399Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:57:05.609412Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:57:35.875918Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:58:06.185291Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:58:36.463624Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:59:06.728255Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T00:59:36.981393Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:00:07.199276Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:00:37.454644Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:01:07.876015Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:01:38.119098Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:02:08.379946Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:02:38.596380Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:03:08.834677Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:03:39.084745Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:04:09.353775Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:04:39.635370Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:05:09.898184Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:05:40.159789Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:06:10.458833Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:06:40.738985Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:07:10.975617Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:07:41.191361Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:08:11.426643Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:08:41.726243Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:09:12.008420Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:09:42.309453Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:10:12.539526Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:10:42.793086Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:11:13.056310Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:11:43.348031Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:12:13.641870Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:12:43.934142Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:13:14.232369Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:13:44.523269Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:14:14.772598Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:14:45.070078Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:15:15.306708Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:15:45.566408Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:16:15.833511Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:16:46.113521Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:17:16.404585Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:17:46.654458Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:18:16.897630Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:18:47.138445Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:19:17.358846Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:19:47.583193Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:20:17.837716Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:20:48.084334Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:21:18.354546Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:21:48.583255Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:22:18.804789Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:22:49.049137Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:23:19.321562Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:23:49.611423Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:24:19.900676Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:24:50.164412Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:25:20.387772Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:25:50.602436Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:26:20.894111Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:26:51.117396Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:27:21.397272Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:27:51.695705Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:28:21.964343Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:28:52.224141Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:29:22.472682Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:29:52.684780Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:30:22.945742Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:30:53.187667Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:31:23.399455Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:31:53.614084Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-05-13T01:32:23.888373Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}

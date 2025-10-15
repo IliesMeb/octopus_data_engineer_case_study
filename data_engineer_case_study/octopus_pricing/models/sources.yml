@@ -1,0 +1,16 @@
+version: 1
+
+sources:
+  - name: raw_data
+    database: challenge_db
+    schema: raw_data
+    tables:
+      - name: network_costs
+      - name: price_comparison
+      - name: products
+      - name: product_rates
+  - name: analytics
+    database: challenge_db
+    schema: analytics
+    tables:
+      - name: final_analytics_table

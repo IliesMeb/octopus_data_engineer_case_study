@@ -1,0 +1,17 @@
+{"timestamp":"2025-05-12T22:56:31.342544","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-12T22:56:31.348679","level":"info","event":"Filling up the DagBag from /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags/octopus_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-12T22:56:33.358668","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:33.833851","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:33.863488","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:33.904713","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-12T22:56:33.970500","level":"info","event":"Triggering Dag Run.","trigger_dag_id":"***_pricing_pipeline","logger":"task"}
+{"timestamp":"2025-05-12T22:56:34.135432","level":"info","event":"Dag Run triggered successfully.","trigger_dag_id":"***_pricing_pipeline","logger":"task"}
+{"timestamp":"2025-05-12T22:56:34.137270","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T22:57:34.199186","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T22:58:34.265535","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T22:59:34.318824","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T23:00:34.386308","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T23:01:34.447197","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T23:02:34.511188","level":"info","event":"Waiting for dag run to complete execution in allowed state.","dag_id":"***_pricing_pipeline","run_id":"manual__2025-05-12T22:56:33.969661+00:00","allowed_state":["success"],"logger":"task"}
+{"timestamp":"2025-05-12T23:02:49.561873Z","level":"error","event":"Server indicated the task shouldn't be running anymore. Terminating process","detail":{"detail":{"reason":"not_found","message":"Task Instance not found"}},"logger":"task"}
+{"timestamp":"2025-05-12T23:02:49.575997Z","level":"error","event":"Task killed!","logger":"task"}

@@ -1,0 +1,8 @@
+{"timestamp":"2025-05-12T22:56:35.315576","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-12T22:56:35.317226","level":"info","event":"Filling up the DagBag from /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags/octopus_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-12T22:56:36.526681","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:36.577048","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:36.657128","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:56:36.684274","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-12T22:56:36.693596","level":"error","event":"Task not found in DAG during start up","dag_id":"***_pricing_pipeline","task_id":"wait_for_0800","bundle":"BundleInfo(name='dags-folder', version=None)","path":"***_pricing_pipeline.py","logger":"task"}
+{"timestamp":"2025-05-12T22:56:36.722310Z","level":"warning","event":"Process exited abnormally","exit_code":1,"logger":"task"}

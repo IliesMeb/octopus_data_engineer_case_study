@@ -1,0 +1,104 @@
+[2025-05-11T00:44:11.601+0200] {settings.py:60} INFO - Configured default timezone UTC
+[2025-05-11T00:44:11.629+0200] {dag_processor_job_runner.py:59} INFO - Starting the Dag Processor Job
+[2025-05-11T00:44:11.630+0200] {manager.py:245} INFO - Processing files using up to 2 processes at a time 
+[2025-05-11T00:44:11.630+0200] {manager.py:246} INFO - Process each file at most once every 30 seconds
+[2025-05-11T00:44:11.631+0200] {manager.py:120} INFO - DAG bundles loaded: dags-folder
+[2025-05-11T00:44:11.636+0200] {manager.py:135} WARNING - DAG bundle example_dags is no longer found in config and has been disabled
+[2025-05-11T00:44:11.645+0200] {manager.py:120} INFO - DAG bundles loaded: dags-folder
+[2025-05-11T00:44:11.645+0200] {manager.py:256} INFO - Checking for new files in bundle dags-folder every 300 seconds
+[2025-05-11T00:44:11.650+0200] {manager.py:526} INFO - Refreshing bundle dags-folder
+[2025-05-11T00:44:11.657+0200] {manager.py:577} INFO - Searching for files in dags-folder at /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags
+[2025-05-11T00:44:11.658+0200] {manager.py:579} INFO - Found 2 files for bundle dags-folder
+[2025-05-11T00:44:11.725+0200] {manager.py:748} INFO - 
+================================================================================
+DAG File Processing Stats
+
+Bundle       File Path                      PID  Current Duration      # DAGs    # Errors  Last Duration    Last Run At
+-----------  ---------------------------  -----  ------------------  --------  ----------  ---------------  -------------
+dags-folder  octopus_pricing_pipeline.py  81882  0.12s                      0           0
+dags-folder  hello_world.py               81883  0.11s                      0           0
+================================================================================
+[2025-05-11T00:44:11.763+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:44:11.788+0200] {dag.py:2517} INFO - Setting next_dagrun for hello_world to 2025-05-01 00:00:00+00:00, run_after=2025-05-01 00:00:00+00:00
+[2025-05-11T00:44:12.207+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:44:12.216+0200] {dag.py:2517} INFO - Setting next_dagrun for octopus_pricing_pipeline to 2025-05-10 08:00:00+00:00, run_after=2025-05-10 08:00:00+00:00
+[2025-05-11T00:44:17.263+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:22.325+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:27.376+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:32.434+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:37.490+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:42.532+0200] {manager.py:748} INFO - 
+================================================================================
+DAG File Processing Stats
+
+Bundle       File Path                    PID    Current Duration      # DAGs    # Errors  Last Duration    Last Run At
+-----------  ---------------------------  -----  ------------------  --------  ----------  ---------------  -------------------
+dags-folder  octopus_pricing_pipeline.py                                    1           0  0.61s            2025-05-10T22:44:12
+dags-folder  hello_world.py                                                 1           0  0.15s            2025-05-10T22:44:11
+================================================================================
+[2025-05-11T00:44:42.551+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:42.713+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:44:42.727+0200] {dag.py:2517} INFO - Setting next_dagrun for hello_world to 2025-05-01 00:00:00+00:00, run_after=2025-05-01 00:00:00+00:00
+[2025-05-11T00:44:43.157+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:44:43.162+0200] {dag.py:2517} INFO - Setting next_dagrun for octopus_pricing_pipeline to 2025-05-10 08:00:00+00:00, run_after=2025-05-10 08:00:00+00:00
+[2025-05-11T00:44:48.217+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:53.280+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:44:58.349+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:03.407+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:08.458+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:13.502+0200] {manager.py:748} INFO - 
+================================================================================
+DAG File Processing Stats
+
+Bundle       File Path                    PID    Current Duration      # DAGs    # Errors  Last Duration    Last Run At
+-----------  ---------------------------  -----  ------------------  --------  ----------  ---------------  -------------------
+dags-folder  octopus_pricing_pipeline.py                                    1           0  0.69s            2025-05-10T22:44:43
+dags-folder  hello_world.py                                                 1           0  0.24s            2025-05-10T22:44:42
+================================================================================
+[2025-05-11T00:45:13.514+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:13.582+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:45:13.600+0200] {dag.py:2517} INFO - Setting next_dagrun for hello_world to 2025-05-01 00:00:00+00:00, run_after=2025-05-01 00:00:00+00:00
+[2025-05-11T00:45:13.882+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:45:13.888+0200] {dag.py:2517} INFO - Setting next_dagrun for octopus_pricing_pipeline to 2025-05-10 08:00:00+00:00, run_after=2025-05-10 08:00:00+00:00
+[2025-05-11T00:45:18.948+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:24.015+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:29.085+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:34.145+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:39.207+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:44.263+0200] {manager.py:748} INFO - 
+================================================================================
+DAG File Processing Stats
+
+Bundle       File Path                    PID    Current Duration      # DAGs    # Errors  Last Duration    Last Run At
+-----------  ---------------------------  -----  ------------------  --------  ----------  ---------------  -------------------
+dags-folder  octopus_pricing_pipeline.py                                    1           0  0.45s            2025-05-10T22:45:13
+dags-folder  hello_world.py                                                 1           0  0.14s            2025-05-10T22:45:13
+================================================================================
+[2025-05-11T00:45:44.276+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:44.351+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:45:44.359+0200] {dag.py:2517} INFO - Setting next_dagrun for hello_world to 2025-05-01 00:00:00+00:00, run_after=2025-05-01 00:00:00+00:00
+[2025-05-11T00:45:44.646+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:45:44.652+0200] {dag.py:2517} INFO - Setting next_dagrun for octopus_pricing_pipeline to 2025-05-10 08:00:00+00:00, run_after=2025-05-10 08:00:00+00:00
+[2025-05-11T00:45:49.713+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:54.774+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:45:59.838+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:04.900+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:09.961+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:15.009+0200] {manager.py:748} INFO - 
+================================================================================
+DAG File Processing Stats
+
+Bundle       File Path                    PID    Current Duration      # DAGs    # Errors  Last Duration    Last Run At
+-----------  ---------------------------  -----  ------------------  --------  ----------  ---------------  -------------------
+dags-folder  octopus_pricing_pipeline.py                                    1           0  0.45s            2025-05-10T22:45:44
+dags-folder  hello_world.py                                                 1           0  0.15s            2025-05-10T22:45:44
+================================================================================
+[2025-05-11T00:46:15.028+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:15.090+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:46:15.099+0200] {dag.py:2517} INFO - Setting next_dagrun for hello_world to 2025-05-01 00:00:00+00:00, run_after=2025-05-01 00:00:00+00:00
+[2025-05-11T00:46:15.407+0200] {dag.py:1894} INFO - Sync 1 DAGs
+[2025-05-11T00:46:15.412+0200] {dag.py:2517} INFO - Setting next_dagrun for octopus_pricing_pipeline to 2025-05-10 08:00:00+00:00, run_after=2025-05-10 08:00:00+00:00
+[2025-05-11T00:46:20.476+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:25.535+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:30.588+0200] {manager.py:523} INFO - Not time to refresh bundle dags-folder
+[2025-05-11T00:46:33.466+0200] {manager.py:225} INFO - Exiting gracefully upon receiving signal 15

@@ -1,0 +1,13 @@
+{"timestamp":"2025-05-12T22:07:28.007491","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-12T22:07:28.008894","level":"info","event":"Filling up the DagBag from /home/ilies/octopus_data_engineer_case_study/data_engineer_case_study/airflow/dags/octopus_pricing_pipeline.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-12T22:07:28.316095","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:07:28.324139","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:07:28.332213","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-12T22:07:28.343146","level":"info","event":"Connection Retrieved 'staging_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-12T22:07:28.354155","level":"info","event":"Checking if the time (2025-05-13T00:00:00) has come","logger":"airflow.task.operators.airflow.providers.standard.sensors.date_time.DateTimeSensor"}
+{"timestamp":"2025-05-12T22:08:28.411065","level":"info","event":"Checking if the time (2025-05-13T00:00:00) has come","logger":"airflow.task.operators.airflow.providers.standard.sensors.date_time.DateTimeSensor"}
+{"timestamp":"2025-05-12T22:09:28.461776","level":"info","event":"Checking if the time (2025-05-13T00:00:00) has come","logger":"airflow.task.operators.airflow.providers.standard.sensors.date_time.DateTimeSensor"}
+{"timestamp":"2025-05-12T22:10:28.518267","level":"info","event":"Checking if the time (2025-05-13T00:00:00) has come","logger":"airflow.task.operators.airflow.providers.standard.sensors.date_time.DateTimeSensor"}
+{"timestamp":"2025-05-12T22:11:28.525155","level":"info","event":"Checking if the time (2025-05-13T00:00:00) has come","logger":"airflow.task.operators.airflow.providers.standard.sensors.date_time.DateTimeSensor"}
+{"timestamp":"2025-05-12T22:11:43.592328Z","level":"error","event":"Server indicated the task shouldn't be running anymore. Terminating process","detail":{"detail":{"reason":"not_found","message":"Task Instance not found"}},"logger":"task"}
+{"timestamp":"2025-05-12T22:11:43.601951Z","level":"error","event":"Task killed!","logger":"task"}
