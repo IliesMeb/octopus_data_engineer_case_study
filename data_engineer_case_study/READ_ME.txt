@@ -12,23 +12,23 @@ docker pull postgres:15
 
 # Launch a new container named "local-postgres"
 # Run a container named local-postgres in detached mode.
-# Set up a database user octopus_challenge with password octopus
-# Create a default database named challenge_db
-# Maps port 5432 inside the container to port 5432 on your local machine, so you can connect with postgresql://octopus_challenge:octopus@localhost:5432/challenge_db
+# Set up a database user YOUR_USERNAME with password YOUR_PASSWORD
+# Create a default database named YOUR_DATABASE_NAME
+# Maps port 5432 inside the container to port 5432 on your local machine, so you can connect with postgresql://YOUR_USERNAME:YOUR_PASSWORD@localhost:5432/YOUR_DATABASE_NAME
 
 ```bash
 docker run -d \
   --name local-postgres \
-  -e POSTGRES_USER=octopus_challenge \
-  -e POSTGRES_PASSWORD=octopus \
-  -e POSTGRES_DB=challenge_db \
+  -e POSTGRES_USER=YOUR_USERNAME \
+  -e POSTGRES_PASSWORD=YOUR_PASSWORD \
+  -e POSTGRES_DB=YOUR_DATABASE_NAME \
   -p 5432:5432 \
   postgres:15
 
 # create schemas and tables
 # run the postgresql interface
 ```bash
-psql postgresql://octopus_challenge:octopus@localhost:5432/challenge_db  
+psql postgresql://YOUR_USERNAME:YOUR_PASSWORD@localhost:5432/YOUR_DATABASE_NAME  
 # create schemas: 
 # 1. raw data for storing all data from different sources
 CREATE SCHEMA raw_data AUTHORIZATION octopus_challenge;
@@ -98,9 +98,9 @@ dbt init octopus_pricing
 a number: 1 
 Host: localhost
 Port: 5432
-User: octopus_challenge
-Password: octopus
-Database: challenge_db
+User: YOUR_USERNAME
+Password: YOUR_PASSWORD
+Database: YOUR_DATABASE_NAME
 Schema: raw
 threading: 1
 
@@ -115,7 +115,7 @@ version: 1
 
 sources:
   - name: raw_data
-    database: challenge_db
+    database: YOUR_DATABASE_NAME
     schema: raw_data
     tables:
       - name: network_costs
@@ -123,7 +123,7 @@ sources:
       - name: products
       - name: product_rates
   - name: analytics
-    database: challenge_db
+    database: YOUR_DATABASE_NAME
     schema: analytics
     tables:
       - name: final_analytics_table
@@ -172,7 +172,7 @@ airflow db reset --yes
 # Configure your Postgres connection
 # Register the staging database so Airflow tasks can write to it:
 ```bash
-airflow connections add staging_postgres --conn-uri postgresql+psycopg2://octopus_challenge:octopus@localhost:5432/challenge_db
+airflow connections add staging_postgres --conn-uri postgresql+psycopg2://YOUR_USERNAME:YOUR_PASSWORD@localhost:5432/YOUR_DATABASE_NAME
 
 # Start Scheduler & UI/API server
 # In one terminal:
@@ -201,4 +201,5 @@ airflow variables set BASE_DATA_PATH /path/to/your/data_folder
 airflow variables set NETWORK_COSTS_FILE network_costs.csv
 airflow variables set BACKEND_DB_FILE /path/to/your/backend.db
 airflow variables set PRODUCT_ID 224
-airflow variables set STAGING_POSTGRES_CONN postgresql+psycopg2://octopus_challenge:octopus@localhost:5432/challenge_db
+airflow variables set STAGING_POSTGRES_CONN postgresql+psycopg2://YOUR_USERNAME:YOUR_PASSWORD@localhost:5432/YOUR_DATABASE_NAME
+
